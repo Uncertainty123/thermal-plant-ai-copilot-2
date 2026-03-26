@@ -70,7 +70,6 @@ The `data/` directory includes:
 - SCADA historian-like telemetry rows
 - DCS alarm rows
 
-This gives you both normal and upset scenarios for demo, testing, and future ingestion into SQLite, Postgres, or a historian adapter.
 
 ## Scalability to nuclear and oil & gas
 
