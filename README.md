@@ -97,4 +97,6 @@ The operating envelopes and design choices are informed by public references and
 - Representative industrial tag naming pattern example: [Kepware tag naming convention](https://support.ptc.com/help/kepware/drivers/en/kepware/drivers/WAGOETHERNET/tag-naming-convention.html)
 - Public news reference for CSTPS 500 MW unit context: [Times of India, January 12 2015](https://timesofindia.indiatimes.com/city/nagpur/cstps-new-500mw-unit-synchronized/articleshow/45846419.cms)
 
+# Check the WebApp from below link
+-https://thermal-plant-ai-copilot-2-kent3axabpbxapxzr7ivsx.streamlit.app/
 Where exact thresholds are not published plant-by-plant, this system uses conservative engineering approximations and explicitly marks them as synthetic demo values.
