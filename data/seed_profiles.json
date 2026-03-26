@@ -1,0 +1,52 @@
+{
+  "normal": {
+    "SH_TEMP": 534.0,
+    "SH_PRESS": 171.5,
+    "DRUM_LEVEL": 15.0,
+    "BFP_FLOW": 930.0,
+    "STEAM_FLOW": 505.0,
+    "FURNACE_TEMP": 1120.0,
+    "FURNACE_O2": 3.5,
+    "FW_TEMP": 238.0
+  },
+  "bfp_degradation": {
+    "SH_TEMP": 530.0,
+    "SH_PRESS": 166.0,
+    "DRUM_LEVEL": -45.0,
+    "BFP_FLOW": 835.0,
+    "STEAM_FLOW": 495.0,
+    "FURNACE_TEMP": 1115.0,
+    "FURNACE_O2": 3.7,
+    "FW_TEMP": 233.0
+  },
+  "superheater_overheat": {
+    "SH_TEMP": 541.0,
+    "SH_PRESS": 182.0,
+    "DRUM_LEVEL": 35.0,
+    "BFP_FLOW": 905.0,
+    "STEAM_FLOW": 525.0,
+    "FURNACE_TEMP": 1190.0,
+    "FURNACE_O2": 2.8,
+    "FW_TEMP": 241.0
+  },
+  "drum_level_swell": {
+    "SH_TEMP": 535.0,
+    "SH_PRESS": 175.0,
+    "DRUM_LEVEL": 225.0,
+    "BFP_FLOW": 955.0,
+    "STEAM_FLOW": 520.0,
+    "FURNACE_TEMP": 1128.0,
+    "FURNACE_O2": 3.3,
+    "FW_TEMP": 239.0
+  },
+  "furnace_oxygen_deficit": {
+    "SH_TEMP": 538.0,
+    "SH_PRESS": 178.0,
+    "DRUM_LEVEL": 20.0,
+    "BFP_FLOW": 915.0,
+    "STEAM_FLOW": 515.0,
+    "FURNACE_TEMP": 1205.0,
+    "FURNACE_O2": 2.2,
+    "FW_TEMP": 238.0
+  }
+}

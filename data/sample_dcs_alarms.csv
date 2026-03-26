@@ -1,0 +1,7 @@
+timestamp,dcs_platform,alarm_tag,priority,message,scenario
+2026-03-26T08:05:00,DCS_MAIN,01SH01TIT001.PV,high,Superheater outlet temperature high,superheater_overheat
+2026-03-26T08:05:30,DCS_MAIN,01SH01PIT001.PV,high,Superheater pressure high,superheater_overheat
+2026-03-26T08:10:00,DCS_MAIN,01DRM01LIT001.PV,critical,Drum level high-high trip active,drum_level_swell
+2026-03-26T08:10:05,DCS_MAIN,01BMS01TRIP001,critical,Master fuel trip asserted,drum_level_swell
+2026-03-26T08:15:00,DCS_MAIN,01BFP01FIT001.PV,high,Feed pump discharge flow low,bfp_degradation
+2026-03-26T08:20:00,DCS_MAIN,01FRN01AIT002.PV,critical,Furnace oxygen low with combustion instability,furnace_oxygen_deficit
